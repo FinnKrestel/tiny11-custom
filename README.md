@@ -1,4 +1,4 @@
-# tiny11builder
+# Finn Krestel's custom tiny11builder
 
 Scripts to build a trimmed-down Windows 11 image.
 
